@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350882346078",
+    "firebase_url": "https://fir-app-f4e53.firebaseio.com",
+    "project_id": "fir-app-f4e53",
+    "storage_bucket": "fir-app-f4e53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350882346078:android:353301649b8acfccf4b0cf",
+        "android_client_info": {
+          "package_name": "com.sushant.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350882346078-d1aich37narcoq736emasacoq42kf5oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0euR8nHBEDoUjJsJJxuw-3M4guo85II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350882346078-d1aich37narcoq736emasacoq42kf5oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
